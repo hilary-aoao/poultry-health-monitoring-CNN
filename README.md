@@ -58,4 +58,4 @@ poultry-health-monitoring/
 - Combine fecal images with physical symptom data for a multi-modal diagnostic system
 
 ## Notebook
-View the full notebook on Kaggle: [PoultryVision on Kaggle]https://www.kaggle.com/code/hillivize/poultryvision-cnn-based-disease-classification
+View the full notebook on Kaggle: [PoultryVision on Kaggle]https://www.kaggle.com/code/hillivize/poultryvision-cnn-based-disease-classification?scriptVersionId=330533208
