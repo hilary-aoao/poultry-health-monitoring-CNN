@@ -44,7 +44,7 @@ accessible and affordable solution for early disease detection directly from fec
 ## Project Structure
 poultry-health-monitoring/
 │
-├── notebookc05a1389d6.ipynb   # Main notebook with full pipeline
+├── poultryvision-cnn-based-disease-classification.ipynb   # Main notebook with full pipeline
 ├── README.md                  # Project documentation
 
 ## Key Learnings
