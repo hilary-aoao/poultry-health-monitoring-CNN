@@ -1,4 +1,4 @@
-# 🐔 PoultryVision: CNN-Based Disease Classification from Fecal Images
+# PoultryVision: CNN-Based Disease Classification from Fecal Images
 
 ## Overview
 This project builds an intelligent poultry health monitoring system that automatically
